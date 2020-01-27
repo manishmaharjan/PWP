@@ -1,7 +1,8 @@
 # PWP SPRING 2020
-# PROJECT NAME
+# Smart Data API
+
 # Group information
-* Student 1. Name and email
+* Student 1. Manish Maharjan(mmaharja@student.oulu.fi)
 * Student 2. Name and email
 * Student 3. Name and email
 

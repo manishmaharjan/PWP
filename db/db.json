@@ -1,0 +1,184 @@
+[
+  {
+    "Totalspace": 210,
+    "Address": "Medipark",
+    "ParkingStationId": 7,
+    "Coordinates": [
+      25.51894066,
+      65.00987539
+    ],
+    "Name": "Medipark"
+  },
+  {
+    "Totalspace": 357,
+    "Address": "Rehaparkki",
+    "ParkingStationId": 8,
+    "Freespace": 353,
+    "Coordinates": [
+      25.51289086,
+      65.01073785
+    ],
+    "Name": "Rehaparkki"
+  },
+  {
+    "Address": "Ouluhalli",
+    "ParkingStationId": 104,
+    "Coordinates": [
+      25.50458772,
+      65.00704635
+    ],
+    "Name": "Ouluhalli"
+  },
+  {
+    "Totalspace": 63,
+    "Address": "Valkea",
+    "ParkingStationId": 10,
+    "Coordinates": [
+      25.47141987,
+      65.01073984
+    ],
+    "Name": "Valkea"
+  },
+  {
+    "Totalspace": 213,
+    "Address": "Pekuri",
+    "ParkingStationId": 3,
+    "Coordinates": [
+      25.46764256,
+      65.01172727
+    ],
+    "Name": "Pekuri"
+  },
+  {
+    "Totalspace": 150,
+    "Address": "Autotori",
+    "ParkingStationId": 2,
+    "Coordinates": [
+      25.4649031,
+      65.01111078
+    ],
+    "Freespace": 145,
+    "Name": "Autotori"
+  },
+  {
+    "Address": "Torinranta",
+    "ParkingStationId": 100,
+    "Coordinates": [
+      25.46626395,
+      65.01474128
+    ],
+    "Name": "Torinranta"
+  },
+  {
+    "Address": "EtelainenPAlue",
+    "ParkingStationId": 12,
+    "Coordinates": [
+      null,
+      null
+    ],
+    "Name": "EtelainenPAlue"
+  },
+  {
+    "Totalspace": 65,
+    "Address": "Avohoitotalo",
+    "ParkingStationId": 9,
+    "Coordinates": [
+      25.51407936,
+      65.00697474
+    ],
+    "Name": "Avohoitotalo"
+  },
+  {
+    "Totalspace": 95,
+    "Address": "Autoheikki",
+    "ParkingStationId": 4,
+    "Coordinates": [
+      25.47918373,
+      65.01498236
+    ],
+    "Freespace": 77,
+    "Name": "Autoheikki"
+  },
+  {
+    "Address": "MediparkPintaP",
+    "ParkingStationId": 13,
+    "Coordinates": [
+      null,
+      null
+    ],
+    "Name": "MediparkPintaP"
+  },
+  {
+    "Totalspace": 753,
+    "Address": "Kivisydän",
+    "ParkingStationId": 6,
+    "Coordinates": [
+      25.47747895,
+      65.01201845
+    ],
+    "Freespace": 748,
+    "Name": "Kivisydän"
+  },
+  {
+    "Address": "Linja-autoasema",
+    "ParkingStationId": 102,
+    "Coordinates": [
+      25.48313011,
+      65.00918586
+    ],
+    "Name": "Linja-autoasema"
+  },
+  {
+    "Address": "Raksilan Marketit",
+    "ParkingStationId": 103,
+    "Coordinates": [
+      25.49191761,
+      65.01125565
+    ],
+    "Name": "Raksilan Marketit"
+  },
+  {
+    "Totalspace": 753,
+    "Address": "Kivisydän",
+    "ParkingStationId": 61,
+    "Coordinates": [
+      25.46510463,
+      65.01470741
+    ],
+    "Freespace": 748,
+    "Name": "Kivisydän"
+  },
+  {
+    "Totalspace": 54,
+    "Address": "Technopolis",
+    "ParkingStationId": 1,
+    "Coordinates": [
+      25.46884555,
+      65.00782341
+    ],
+    "Freespace": 95,
+    "Name": "Technopolis"
+  },
+  {
+    "Totalspace": 200,
+    "Address": "Autosaari",
+    "ParkingStationId": 5,
+    "Freespace": 149,
+    "Coordinates": [
+      25.4732754,
+      65.01088904
+    ],
+    "Name": "Autosaari"
+  },
+  {
+    "Totalspace": 102,
+    "Address": "Sairaalaparkki",
+    "ParkingStationId": 11,
+    "Freespace": 96,
+    "Coordinates": [
+      25.51300372,
+      65.00900919
+    ],
+    "Name": "Sairaalaparkki"
+  }
+]

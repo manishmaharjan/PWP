@@ -2,7 +2,7 @@ import sqlite3
 import json
 #import pdb
 
-connection = sqlite3.connect('data4.db')
+connection = sqlite3.connect('data.db')
 parkingdatas = json.load(open('sample.json'))
 cursor = connection.cursor()
 # pdb.set_trace()
